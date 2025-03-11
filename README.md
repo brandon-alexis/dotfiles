@@ -19,8 +19,9 @@ Clone the repository
 
 `
 git clone git@github.com:brandon-alexis/dotfiles.git
-cd dotfiles
 `
+go to folder
+`cd dotfile`
 
 Go to the directory 
 
