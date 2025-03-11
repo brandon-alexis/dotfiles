@@ -17,8 +17,10 @@ For install this dotfiles use the follow commands
 
 Clone the repository
 
-`git clone https://github.com/brandon-alexis/dotfiles.git`
-`git clone git@github.com:brandon-alexis/dotfiles.git`
+`
+git clone git@github.com:brandon-alexis/dotfiles.git
+cd dotfiles
+`
 
 Go to the directory 
 
